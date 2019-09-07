@@ -8,3 +8,6 @@ Collection of all learning material
 
 3. Posterior and Prior: https://medium.com/@SeoJaeDuk/archived-post-random-notes-for-prior-and-posterior-1116d34695f7
 
+4. MLE and MAP with example:
+https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d
+
