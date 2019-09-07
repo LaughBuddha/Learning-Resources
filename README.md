@@ -6,3 +6,5 @@ Collection of all learning material
 
 2. Max. Likelihood Function: https://medium.com/quick-code/maximum-likelihood-estimation-for-regression-65f9c99f815d
 
+3. Posterior and Prior: https://medium.com/@SeoJaeDuk/archived-post-random-notes-for-prior-and-posterior-1116d34695f7
+
