@@ -11,3 +11,4 @@ Collection of all learning material
 4. MLE and MAP with example:
 https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d
 
+5. Kernels: https://towardsdatascience.com/kernel-function-6f1d2be6091
