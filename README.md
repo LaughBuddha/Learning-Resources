@@ -12,3 +12,5 @@ Collection of all learning material
 https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d
 
 5. Kernels: https://towardsdatascience.com/kernel-function-6f1d2be6091
+
+6. Forward Propagation: https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250
