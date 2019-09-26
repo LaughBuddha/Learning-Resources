@@ -14,3 +14,5 @@ https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estim
 5. Kernels: https://towardsdatascience.com/kernel-function-6f1d2be6091
 
 6. Forward Propagation: https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250
+
+7. Softmax, Negative Likelihood, Derivative of Softmax - https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/
