@@ -18,3 +18,5 @@ https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estim
 7. Softmax, Negative Likelihood, Derivative of Softmax: https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/
 
 8. Coding a basic 2 layer NN: https://towardsdatascience.com/coding-a-2-layer-neural-network-from-scratch-in-python-4dd022d19fd2
+
+9. Generative Adversarial Networks (GANs): https://medium.com/free-code-camp/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394
