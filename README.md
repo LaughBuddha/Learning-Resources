@@ -20,3 +20,6 @@ https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estim
 8. Coding a basic 2 layer NN: https://towardsdatascience.com/coding-a-2-layer-neural-network-from-scratch-in-python-4dd022d19fd2
 
 9. Generative Adversarial Networks (GANs): https://medium.com/free-code-camp/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394
+
+10. Singular Value Decomposition: https://towardsdatascience.com/svd-8c2f72e264f
+https://medium.com/the-andela-way/foundations-of-machine-learning-singular-value-decomposition-svd-162ac796c27d
