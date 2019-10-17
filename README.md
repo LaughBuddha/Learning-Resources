@@ -22,3 +22,6 @@ https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estim
 9. Generative Adversarial Networks (GANs): https://medium.com/free-code-camp/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394
 
 10. Singular Value Decomposition: https://towardsdatascience.com/svd-8c2f72e264f
+
+11. Convolutional Neural Networks (CNNs) - CS231 - Stanford
+https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
