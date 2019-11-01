@@ -25,3 +25,6 @@ https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estim
 
 11. Convolutional Neural Networks (CNNs) - CS231 - Stanford
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+
+12. Gaussian mixture models
+https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
