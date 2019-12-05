@@ -28,3 +28,9 @@ https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
 12. Gaussian mixture models
 https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
+
+13. Variational Autoencoder
+ - reparameterization trick: https://gokererdogan.github.io/2016/07/01/reparameterization-trick/?source=post_page-----77fd3a8dd368----------------------
+ - VAE tutorial: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/?source=post_page-----77fd3a8dd368----------------------
+ and
+ https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368
