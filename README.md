@@ -34,3 +34,9 @@ https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
  - VAE tutorial: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/?source=post_page-----77fd3a8dd368----------------------
  and
  https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368
+ 
+ 14. Transformers (NLP) - https://medium.com/analytics-vidhya/how-do-transformers-work-in-nlp-a-guide-to-the-latest-state-of-the-art-models-52424082c132
+ 
+ 15. RNN/LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+ 
+ 16. Attention in NLP - https://medium.com/@joealato/attention-in-nlp-734c6fa9d983
