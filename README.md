@@ -40,3 +40,6 @@ https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
  15. RNN/LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  
  16. Attention in NLP - https://medium.com/@joealato/attention-in-nlp-734c6fa9d983
+
+ 17. Support Vector Machines(SVM) - https://classroom.udacity.com/courses/ud262/lessons/386608826/concepts/3758388600923
+     (ML GeorgiaTech Udacity course -> Kernels & SVM)
