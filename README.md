@@ -44,3 +44,7 @@ https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
 
  17. Support Vector Machines(SVM) - https://classroom.udacity.com/courses/ud262/lessons/386608826/concepts/3758388600923
      (ML GeorgiaTech Udacity course -> Kernels & SVM)
+     
+ 18. YouTube channels
+     - https://www.youtube.com/c/BrandonFoltz
+     - https://www.youtube.com/user/SpartacanUsuals
