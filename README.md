@@ -48,3 +48,7 @@ https://towardsdatascience.com/gaussian-mixture-models-d13a5e915c8e
  18. YouTube channels
      - https://www.youtube.com/c/BrandonFoltz
      - https://www.youtube.com/user/SpartacanUsuals
+
+19. MLOps - https://madewithml.com/#foundations
+
+20. ML interviews - https://huyenchip.com/ml-interviews-book/
